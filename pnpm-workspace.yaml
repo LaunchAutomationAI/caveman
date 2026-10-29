@@ -16,3 +16,6 @@ packages:
   - "shrink"
   - "skills/caveman-learn"
   - "ui"
+
+overrides:
+  "undici@8": "8.12.2"
